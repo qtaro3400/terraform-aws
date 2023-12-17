@@ -41,3 +41,6 @@ terraform.rc
 
 20230826_add
 variables.tf
+
+20231217_add
+secure
